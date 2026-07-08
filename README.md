@@ -1,17 +1,17 @@
 <div align="center">
   <img src="Leitostrap.png" alt="Leitostrap Logo" width="120">
-  <h1>Leitostrap</h1>
+  <h1>Leitostrap Injector</h1>
   <p><i>A lightweight Roblox FastFlags manager with live memory injection and full customization.</i></p>
 
+  <a href="https://leitostrap.netlify.app/">Website</a> · 
   <a href="https://github.com/Leitostrap/Leitostrap/releases/latest">Latest Release</a> · 
-  <a href="https://discord.gg/vybh5rHg7n">Discord</a> · 
+  <a href="https://discord.gg/Fgec4NtHnu">Discord</a> · 
   <a href="https://github.com/Leitostrap/Leitostrap">Source Code</a>
 
   <br><br>
 
-  <img src="https://img.shields.io/github/downloads/Leitostrap/Leitostrap/total?style=flat-square&label=downloads&color=7289da" alt="Downloads">
   <img src="https://img.shields.io/github/v/release/Leitostrap/Leitostrap?style=flat-square&label=release&color=7289da" alt="Release">
-  <img src="https://img.shields.io/discord/123456789?style=flat-square&label=Discord&color=7289da" alt="Discord">
+  <img src="https://img.shields.io/badge/Discord-2.9k%20online-7289da?style=flat-square&logo=discord&logoColor=white" alt="Discord">
   <img src="https://img.shields.io/github/stars/Leitostrap/Leitostrap?style=flat-square&label=Stars&color=7289da" alt="Stars">
 
   <br>
@@ -106,7 +106,8 @@ Leitostrap uses Windows Native API (`ntdll.dll`) to read and write process memor
 
 ## Links
 
-- [Discord Server](https://discord.gg/vybh5rHg7n)
+- [Website](https://leitostrap.netlify.app/)
+- [Discord Server](https://discord.gg/Fgec4NtHnu)
 - [GitHub Repository](https://github.com/Leitostrap/Leitostrap)
 - [Latest Release](https://github.com/Leitostrap/Leitostrap/releases/latest)
 - [Offsets Source](https://offsets.imtheo.lol/fflags.hpp)
